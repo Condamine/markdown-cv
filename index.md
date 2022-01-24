@@ -1,15 +1,11 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Henry Sivak
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
+# Postes
+**2018-20**     Maître de Conferences (Senior Lecturer), École de politique et des études globales, l'Arizona State University.  
+**2009-2018**   Maître de Conférences (Lecturer), School of Politics & Global Studies, ASU.
+**2008-09**     Instructeur, Département de géographie, l'Université de Californie--Los Angeles.    
 
 ## Currently
 
@@ -58,7 +54,7 @@ Associate, *French Academy of Science*, Paris, France
 ### Journals
 
 `1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 
 `1669`
 Lectiones opticæ.
@@ -87,5 +83,3 @@ __Lucasian professor of Mathematics__, Cambridge University
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
